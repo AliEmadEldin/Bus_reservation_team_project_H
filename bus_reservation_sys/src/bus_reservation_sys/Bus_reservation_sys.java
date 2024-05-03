@@ -4,5 +4,4 @@ public class Bus_reservation_sys {
         Welcome W = new Welcome(); //first page
         W.show();   // first page appearance
     }    
-//    slkfnsdjnldnvjlavbjkabvjkdbv
 }
